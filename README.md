@@ -1,6 +1,8 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npx create-react-app shobtitle
+cd shobtitle
+npm install react-modal
+npm install lucide-react@0.263.1
 
 ## Available Scripts
 
